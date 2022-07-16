@@ -9,8 +9,8 @@ public class KDVTutariHesaplama {
         System.out.print("Lütfen KDV'sini hesaplamak istediğiniz tutarı giriniz: ");
         amount_of_money = inp.nextDouble();
 
-        if  (amount_of_money <= 1000.0)  tax_rate = 0.18;
-        else    tax_rate = 0.08;
+        tax_rate = amount_of_money <= 1000.0 ? 0.18 : 0.08;
+
         total_amount = amount_of_money + (amount_of_money * tax_rate);
 
         System.out.println("KDV'siz fiyat: " + amount_of_money);
