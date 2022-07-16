@@ -12,7 +12,7 @@
 
   Kullanıcıdan aldığı kenar uzunluklarına göre üçgenin çevresini ve alanını hesaplar.
   
-### **Taksimetre Hesaplama Programı**
+### **Taksimetre Hesaplama Programı**
   Kullanıcıdan aldığı mesafeye göre ödenecek taksimetre tutarını hesaplar. Taksimetre açılış ücreti 10 TL, kilometre başına taksimetre ücreti 2.20 TL'dir. 20 TL altı mesafelerde sabit olarak 20 TL alınmaktadır.
   
 ## **Links**
