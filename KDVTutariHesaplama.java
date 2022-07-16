@@ -5,7 +5,7 @@ public class KDVTutariHesaplama {
         Scanner inp = new Scanner(System.in);
 
         double  amount_of_money, tax_rate, total_amount;
-        System.out.print("KDV Tutarı Hesaplama Programına Hoşgeldiniz\n\n");
+        System.out.print("\nKDV Tutarı Hesaplama Programına Hoşgeldiniz\n\n");
         System.out.print("Lütfen KDV'sini hesaplamak istediğiniz tutarı giriniz: ");
         amount_of_money = inp.nextDouble();
 
