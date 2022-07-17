@@ -15,5 +15,9 @@
 ### **Taksimetre Hesaplama Programı**
   Kullanıcıdan aldığı mesafeye göre ödenecek taksimetre tutarını hesaplar. Taksimetre açılış ücreti 10 TL, kilometre başına taksimetre ücreti 2.20 TL'dir. 20 TL altı mesafelerde sabit olarak 20 TL alınmaktadır.
   
+### **Daire Diliminde Alan Hesaplama Programı**
+  
+  Kullanıcıdan aldığı yarıçap ve merkez açısı ölçüsüne göre daire diliminin alanını hesaplar.
+  
 ## **Links**
 [patika.dev](www.patika.dev)
