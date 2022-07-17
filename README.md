@@ -27,6 +27,10 @@
 	
   Kullanıcıdan aldığı boy ve kilo değerlerine göre VKE hesaplar.
   
+### **Manav Kasa Tutarı Hesaplama Programı**
+
+  Kullanıcıdan aldığı meyve/sebzelerin kilo miktarlarına göre ödenmesi gereken toplam tutarı hesaplar.
+  
 ---
 
 ## **Links**
