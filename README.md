@@ -1,5 +1,9 @@
 # Java101
 
+  Kodluyoruz JAVA101 eğitimi ödevleri
+  
+---
+
 ### **Not Ortalaması Hesaplama Programı**
   
   Kullanıcıdan aldığı çeşitli ders notlarının *-herhangi bir katsayılandırma yapmadan-* ortalamasını hesaplar.
@@ -19,5 +23,7 @@
   
   Kullanıcıdan aldığı yarıçap ve merkez açısı ölçüsüne göre daire diliminin alanını hesaplar.
   
+---
+
 ## **Links**
 [patika.dev](www.patika.dev)
