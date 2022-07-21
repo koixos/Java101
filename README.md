@@ -3,6 +3,7 @@
   Kodluyoruz JAVA101 eğitimi ödevleri
   
 ---
+## Bölüm 1 - Temel Kavramlar ve Değişkenler
 
 ### **Not Ortalaması Hesaplama Programı**
   
