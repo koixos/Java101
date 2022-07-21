@@ -3,6 +3,7 @@
   Kodluyoruz JAVA101 eğitimi ödevleri
   
 ---
+
 ## Bölüm 1 - Temel Kavramlar ve Değişkenler
 
 ### **Not Ortalaması Hesaplama Programı**
@@ -18,6 +19,7 @@
   Kullanıcıdan aldığı kenar uzunluklarına göre üçgenin çevresini ve alanını hesaplar.
   
 ### **Taksimetre Hesaplama Programı**
+  
   Kullanıcıdan aldığı mesafeye göre ödenecek taksimetre tutarını hesaplar. Taksimetre açılış ücreti 10 TL, kilometre başına taksimetre ücreti 2.20 TL'dir. 20 TL altı mesafelerde sabit olarak 20 TL alınmaktadır.
   
 ### **Daire Diliminde Alan Hesaplama Programı**
@@ -31,6 +33,14 @@
 ### **Manav Kasa Tutarı Hesaplama Programı**
 
   Kullanıcıdan aldığı meyve/sebzelerin kilo miktarlarına göre ödenmesi gereken toplam tutarı hesaplar.
+  
+---
+
+## Bölüm 2 - Koşullu Ifadeler ve Kod Blokları
+
+### **Basit Hesap Makinesi**
+
+  Kullanıcıdan aldığı iki sayı değeri ve işlem koduyla istenilen hesaplamayı yapar. (Yalnızca dört işlem yapabilir: toplama, çıkarma, çarpma, bölme.)
   
 ---
 
