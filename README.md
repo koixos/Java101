@@ -50,6 +50,10 @@
 
   Kullanıcıdan aldığı notların genel ortalamasına göre hesaplama yapar. *Girilen not değerleri 0-100 aralığında değilse ortalamaya 0 olarak katılır.*
 
+### **Sıcaklığa Göre Etkinlik Önerme**
+
+  Kullanıcıdan alınan hava sıcaklığı derecesine göre yapılabilecek aktivite önerir.
+
 ---
 
 ## **Links**
