@@ -36,12 +36,16 @@
   
 ---
 
-## Bölüm 2 - Koşullu Ifadeler ve Kod Blokları
+## Bölüm 2 - Koşullu Ifadeler ve Kod Blokları
 
 ### **Basit Hesap Makinesi**
 
   Kullanıcıdan aldığı iki sayı değeri ve işlem koduyla istenilen hesaplamayı yapar. (Yalnızca dört işlem yapabilir: toplama, çıkarma, çarpma, bölme.)
   
+### **Kullanıcı Giriş Ekranı**
+
+  Sisteme kayıtlı olduğu varsayılan bir kullanıcı için giriş ekranıdır. Alınan kullanıcı adı ve şifre bilgilerini sistemde kayıtlı olan bilgilerle kıyaslar. Şifre hatalı olması durumunda sıfırlama seçeneği sunar.
+
 ---
 
 ## **Links**
