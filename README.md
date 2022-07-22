@@ -46,6 +46,10 @@
 
   Sisteme kayıtlı olduğu varsayılan bir kullanıcı için giriş ekranıdır. Alınan kullanıcı adı ve şifre bilgilerini sistemde kayıtlı olan bilgilerle kıyaslar. Şifre hatalı olması durumunda sıfırlama seçeneği sunar.
 
+### **Sınıfı Geçme/Kalma Durumu Sorgulama**
+
+  Kullanıcıdan aldığı notların genel ortalamasına göre hesaplama yapar. *Girilen not değerleri 0-100 aralığında değilse ortalamaya 0 olarak katılır.*
+
 ---
 
 ## **Links**
