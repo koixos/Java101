@@ -54,6 +54,10 @@
 
   Kullanıcıdan alınan hava sıcaklığı derecesine göre yapılabilecek aktivite önerir.
 
+### **Sayı Sıralama**
+
+  Kullanıcıdan aldığı 3 sayıyı küçükten büyüğe sıralar.
+
 ---
 
 ## **Links**
