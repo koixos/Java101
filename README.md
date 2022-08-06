@@ -139,5 +139,15 @@ Sisteme girilen oyuncuların hasar ve sağlık değerlerine göre basit bir oyun
 * Ilk hamleyi yapacak oyuncu %50 şansla seçilir.
 * Hedefin ıskalama şansı değerine göre rakibin hamlesi bloklanabilir.
 
+### **Maaş Hesaplayıcı**
+Çalışanın bilgilerine göre net maaşını hesaplar.
+* Çalışanın maaşı 1000 TL'den az ise vergi uygulanmayacaktır.
+* Çalışanın maaşı 1000 TL'den fazla ise maaşının %3'ü kadar vergi uygulanacaktır.
+* Eğer çalışan haftada 40 saatten fazla çalışmış ise fazladan çalıştığı her saat başına 30 TL olacak şekilde bonus ücreti hesaplanacak.
+* Çalışan 10 yıldan az bir süredir çalışıyorsa maaşına %5 zam yapılacaktır.
+* Çalışan 9 yıldan fazla ve 20 yıldan az çalışıyorsa maaşına %10 zam yapılacaktır.
+* Çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
+---
+
 ## **Links**
 [patika.dev](https://www.patika.dev)
