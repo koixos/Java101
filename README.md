@@ -131,8 +131,13 @@ Kullanıcıdan alınan sayı ile kurala göre desen oluşturur.
 
 ---
 ## Bölüm 5: Sınıflar
-### **Basit Öğrenci Bilgi Sistemi**
+### **Basit Öğrenci Bilgi Sistemi Taslağı**
 Öğrenci ve öğretmenler için oluşturulmuş, arayüzsüz, basit bilgi sistemi taslağı.
+
+### **Boks Oyunu Taslağı**
+Sisteme girilen oyuncuların hasar ve sağlık değerlerine göre basit bir oyun tasarlar.
+* Ilk hamleyi yapacak oyuncu %50 şansla seçilir.
+* Hedefin ıskalama şansı değerine göre rakibin hamlesi bloklanabilir.
 
 ## **Links**
 [patika.dev](https://www.patika.dev)
