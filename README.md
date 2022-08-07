@@ -154,5 +154,8 @@ Sisteme girilen oyuncuların hasar ve sağlık değerlerine göre basit bir oyun
 ### **Harmonik Ortalama Hesaplama**
 Kullanıcıdan aldığı serinin harmonik ortalamasını hesaplar.
 
+### **En Yakın Maks/Min Sayıyı Bulma**
+Kullanıcıdan alınan seride, istenilen sayıya en yakın maksimum ve minimum değerleri bulur.
+
 ## **Links**
 [patika.dev](https://www.patika.dev)
