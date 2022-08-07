@@ -157,5 +157,8 @@ Kullanıcıdan aldığı serinin harmonik ortalamasını hesaplar.
 ### **En Yakın Maks/Min Sayıyı Bulma**
 Kullanıcıdan alınan seride, istenilen sayıya en yakın maksimum ve minimum değerleri bulur.
 
+### **Matriks ile "B" Harfi Oluşturma**
+Çok boyutlu dizi kullanarak ekrana "B" harfini bastırır.
+
 ## **Links**
 [patika.dev](https://www.patika.dev)
