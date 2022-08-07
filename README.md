@@ -131,6 +131,7 @@ Kullanıcıdan alınan sayı ile kurala göre desen oluşturur.
 
 ---
 ## Bölüm 5: Sınıflar
+
 ### **Basit Öğrenci Bilgi Sistemi Taslağı**
 Öğrenci ve öğretmenler için oluşturulmuş, arayüzsüz, basit bilgi sistemi taslağı.
 
@@ -148,6 +149,10 @@ Sisteme girilen oyuncuların hasar ve sağlık değerlerine göre basit bir oyun
 * Çalışan 9 yıldan fazla ve 20 yıldan az çalışıyorsa maaşına %10 zam yapılacaktır.
 * Çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
 ---
+## Bölüm 6: Diziler
+
+### **Harmonik Ortalama Hesaplama**
+Kullanıcıdan aldığı serinin harmonik ortalamasını hesaplar.
 
 ## **Links**
 [patika.dev](https://www.patika.dev)
