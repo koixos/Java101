@@ -160,5 +160,8 @@ Kullanıcıdan alınan seride, istenilen sayıya en yakın maksimum ve minimum d
 ### **Matriks ile "B" Harfi Oluşturma**
 Çok boyutlu dizi kullanarak ekrana "B" harfini bastırır.
 
+### **Dizideki Tekrarlayan Çift Sayıları Belirleme**
+Girilen dizideki tekrarlayan çift sayıları indisleriyle birlikte gösterir.
+
 ## **Links**
 [patika.dev](https://www.patika.dev)
