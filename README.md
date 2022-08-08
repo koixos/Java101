@@ -163,5 +163,8 @@ Kullanıcıdan alınan seride, istenilen sayıya en yakın maksimum ve minimum d
 ### **Dizideki Tekrarlayan Çift Sayıları Belirleme**
 Girilen dizideki tekrarlayan çift sayıları indisleriyle birlikte gösterir.
 
+### **Dizideki Elemanları Sıralama**
+Kullanıcıdan alınan bir dizideki elemanları küçükten büyüğe sıralar.3
+
 ## **Links**
 [patika.dev](https://www.patika.dev)
