@@ -169,5 +169,17 @@ Kullanıcıdan alınan bir dizideki elemanları küçükten büyüğe sıralar.
 ### **Dizideki Elemanların Frekanslarını Hesaplama**
 Verilen bir dizideki elemanların kaç kere tekrarladıklarını hesaplar.
 
+### **Matris Transpozunu Bulma**
+Kullanıcıdan alınan bir matrisin transpozunu bulur.
+* örn: 2x3’lik A matrisinin transpozu (devriği), 2x3’lük bir A^T matrisidir.
+```
+  Matris    : 1  2  3
+              4  5  6
+          
+  Transpoze : 1  4
+              2  5
+              3  6
+``` 
+---
 ## **Links**
 [patika.dev](https://www.patika.dev)
