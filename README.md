@@ -179,7 +179,15 @@ Kullanıcıdan alınan bir matrisin transpozunu bulur.
   Transpoze : 1  4
               2  5
               3  6
-``` 
+```
+---
+## Projeler
+### **Sayı Tahmin Etme Oyunu**
+Kullanıcıdan 0-100 aralığında bir tahminde bulunmasını ister. Doğru sayıyı tahmin eden kullanıcı kazanır, eğer tahmini yanlışsa 4 tahmin hakkı (toplamda 5) daha vardır. Her yanlış tahminde bir ipucu verilir.
+
+### **Palindromik Kelime Mi?**
+Kullanıcıdan alınan bir kelimenin palindromik olup olmadığını kontrol eder.
+
 ---
 ## **Links**
 [patika.dev](https://www.patika.dev)
